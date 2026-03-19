@@ -26,6 +26,7 @@ If Chinese UI and Chinese-facing materials matter, `DSView` is the stronger fall
 ## Read the full notes
 
 - [Arch Linux logic-analyzer session notes](./docs/arch-linux-logic-analyzer-session.md)
+- [Practical field manual](./docs/practical-field-manual.md)
 
 ## Audience
 
